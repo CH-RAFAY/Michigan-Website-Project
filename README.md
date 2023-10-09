@@ -1,4 +1,4 @@
-# Advanced CSS Based Project By UMICH
+# Advanced CSS: UMICH Based Project 
 Certificated by University of Michigin!
 
 Visit:   https://ch-rafay.github.io/UMICH/
