@@ -1,9 +1,9 @@
 # Advanced CSS: UMICH Based Project 
-Certificated by University of Michigin!
+Certificated by University of Michigin! Represents the advanced concepts of CSS & HTML.
 
 Visit:  https://ch-rafay.github.io/UMICH-US/  
 
-Represents the advanced concepts of CSS & HTML.
+
 
 **License & Restrictions:**
 
